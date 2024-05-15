@@ -19,6 +19,5 @@ export const TodoWrapper = () => {
             <Todo task = {todo} key={index} />
         ))}
         </div>
-
   )
 }
